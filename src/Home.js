@@ -51,7 +51,10 @@ export default function Home() {
 				</div>
 			) : (
 				<>
-					<Heading title='All 151 First Pokemon' />
+					<Heading title='All 151* First Pokemon' />
+					<p style={{ textAlign: "center" }}>
+						Having trouble with fetching some of the pokemon, wip
+					</p>
 					<Container>
 						<Row>
 							{pokemonData.map((pokemon, id) => {
