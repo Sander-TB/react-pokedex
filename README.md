@@ -11,4 +11,5 @@ yarn start
 
 ```
 
-Check out package.json for dependencies.
+Live version at :
+https://sanders-react-pokedex.netlify.app/
