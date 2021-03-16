@@ -9,7 +9,7 @@ To launch app:
 ```bash
 yarn
 # or
-npm istall
+npm install
 ```
 
 2. Then run app
