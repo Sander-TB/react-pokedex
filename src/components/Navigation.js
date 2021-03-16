@@ -19,11 +19,6 @@ export default function Navigation() {
 							Home
 						</NavLink>
 					</Nav.Link>
-					<Nav.Link>
-						<NavLink activeStyle={{ color: "black" }} to='/contact'>
-							Contact
-						</NavLink>
-					</Nav.Link>
 				</Nav>
 			</Navbar.Collapse>
 		</Navbar>
